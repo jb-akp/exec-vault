@@ -11,3 +11,7 @@ description: Turns raw call notes or a transcript into a meeting note, updates t
 4. Append each decision to `04 Decisions/log.md`: date, decision, why, who decided, link to the meeting.
 5. If an ask belongs in ClickUp, draft the task under `## ClickUp drafts` in the meeting note. Create it only on Dana's "send".
 6. Run `python3 tools/vault_check.py`.
+
+## Rules
+- Never guess a date or an owner. If the notes don't say, write "TBD" and ask Dana in your reply.
+- Don't commit or push; Dana reviews the changes first.

@@ -1,0 +1,22 @@
+{
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "colorGroups": [
+    {"query": "path:\"02 Clients\"", "color": {"a": 1, "rgb": 2463422}},
+    {"query": "path:\"05 People\"", "color": {"a": 1, "rgb": 14701138}},
+    {"query": "path:\"03 Meetings\"", "color": {"a": 1, "rgb": 3381555}},
+    {"query": "path:\"01 Today\"", "color": {"a": 1, "rgb": 16750848}},
+    {"query": "path:\"04 Decisions\"", "color": {"a": 1, "rgb": 10040013}}
+  ],
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.3,
+  "lineSizeMultiplier": 1,
+  "centerStrength": 0.5,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 120,
+  "scale": 1.2
+}
