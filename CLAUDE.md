@@ -15,7 +15,7 @@ Read this file first, every session. Keep it under 60 lines: rules and pointers 
 
 ## Rules
 - Every note starts with frontmatter: `type`, `updated` (YYYY-MM-DD), and `client` or `person` when it applies.
-- Link people and clients with `[[wikilinks]]` by filename. A link to a note that doesn't exist yet is fine; it marks a note to create.
+- Link people and clients with `[[wikilinks]]` by filename. Every link must match a filename: create the note first (a stub is fine), then link it.
 - When two notes disagree, the newer `updated` date wins, and fix the older one in the same session.
 - `today.md` holds today and yesterday only. Older days move to `90 Archive/days/`.
 - Never send anything outside the vault (Telegram, email, GoHighLevel, ClickUp comments) without Dana's explicit "send".

@@ -15,9 +15,9 @@ problems = []
 for p in notes:
     rel = p.relative_to(root)
     text = p.read_text()
-    if rel.name != "CLAUDE.md" and not text.startswith("---\n"):
+    if rel.name not in ("CLAUDE.md", "README.md") and not text.startswith("---\n"):
         problems.append(f"no frontmatter: {rel}")
-    elif rel.name != "CLAUDE.md":
+    elif rel.name not in ("CLAUDE.md", "README.md"):
         fm = text.split("---", 2)[1]
         for key in ("type", "updated"):
             if not re.search(rf"^{key}:", fm, re.M):
