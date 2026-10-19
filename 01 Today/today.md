@@ -12,12 +12,12 @@ updated: 2026-10-19
 3. Review the Q4 pipeline in GoHighLevel: 3 deals stuck in "Proposal sent" over 14 days.
 
 ## Meetings
-- **10:00** [[Marcus Ellery]], [[Lone Star Dental Group]] — quarterly review. Open ask: their front-desk staffing numbers.
-- **2:00** [[Priya Raman]], [[Bayou Freight]] — scope call. Open ask: our revised scope (Top 3 #1).
+- **10:00** [[Marcus Ellery]], [[Lone Star Dental Group]]: quarterly review. Open ask: their front-desk staffing numbers.
+- **2:00** [[Priya Raman]], [[Bayou Freight]]: scope call. Open ask: our revised scope (Top 3 #1).
 
 ## Due
-- ClickUp: "Bayou Freight revised scope" — due today
-- ClickUp: "Invoice Lone Star for September" — **overdue 3 days**
+- ClickUp: "Bayou Freight revised scope": due today
+- ClickUp: "Invoice Lone Star for September": **overdue 3 days**
 
 ## Watch
 - Lone Star: staffing numbers from Marcus (asked Oct 12)

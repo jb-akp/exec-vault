@@ -12,9 +12,9 @@ description: Morning brief for Dana. Pulls calendar, ClickUp and recent client n
    - Client notes in `02 Clients/` with `updated` in the last 7 days.
 3. **Write today.** In `01 Today/today.md`, replace the draft with:
    - **Top 3** (deadline-real first)
-   - **Meetings** — time, who, one line of context from their note, the open ask
-   - **Due** — ClickUp items, overdue marked
-   - **Watch** — things waiting on someone else
+   - **Meetings**: time, who, one line of context from their note, the open ask
+   - **Due**: ClickUp items, overdue marked
+   - **Watch**: things waiting on someone else
 4. **Prune.** Move the day before yesterday to `90 Archive/days/YYYY-MM-DD.md`. Sort `00 Inbox/` into its folders.
 5. **Draft the Telegram summary** (5 lines max) at the bottom of `today.md` under `## Telegram draft`. Send only on Dana's "send".
 6. **Check.** Run `python3 tools/vault_check.py`. Fix anything it reports before finishing.

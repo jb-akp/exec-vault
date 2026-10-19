@@ -17,4 +17,4 @@ client: Bayou Freight
 - Priya's board meets Nov 3; she wants phase 1 results before then.
 
 ## ClickUp drafts
-- "Bayou Freight revised scope" — due Oct 19 (created)
+- "Bayou Freight revised scope": due Oct 19 (created)
